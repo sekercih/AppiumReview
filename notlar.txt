@@ -1,2 +1,4 @@
 //todo adb shell getprop ro.build.version.release => version bulmak için
 //todo emulator -list-avds => cihaz ismini de bu kod sayesinde buluruz.
+
+//todo adb shell  settings get secure android_id  UDID icin
