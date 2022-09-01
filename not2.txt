@@ -5,3 +5,11 @@ macOS 10.11 veya 10.12 yüklü bir Mac bilgisayar gereklidir.
 Xcode 7 veya üstü gereklidir.
 XCUITest sürücüsü, Appium 1.6'dan başlayarak Appium'da mevcuttu.
 Sürücünün doğru çalışması için ek sistem kitaplıkları gereklidir (aşağıdaki Kurulum bölümlerine bakın).
+ //todo Server ve amulator hatası alındığında
+ Komut istemini açın ve şuraya gidin:
+  android sdk>platform araçları>
+ //todo adb kill-server
+  Enter tuşuna basın
+  ve yeniden
+  //todo adb start-server
+  Enter tuşuna basın

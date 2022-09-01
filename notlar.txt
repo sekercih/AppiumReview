@@ -2,3 +2,6 @@
 //todo emulator -list-avds => cihaz ismini de bu kod sayesinde buluruz.
 
 //todo adb shell  settings get secure android_id  UDID icin
+
+//todo adb shell ile giriş yapılmalı
+//todo dumpsys window windows | grep -E 'mCurrentFocus'  => appPackage ile appAcvity almamıza yarar
